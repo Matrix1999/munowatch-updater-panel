@@ -1,7 +1,7 @@
 {
   "version_code": 16,
   "version_name": "5.1",
-  "apk_url": "https://github.com/Matrix1999/munowatch-updater-panel/releases/download/v2.1/munowatch_v2.1.apk",
+  "apk_url": "https://github.com/Matrix1999/munowatch-updater-panel/releases/download/v2.1/Munowatch.VIP.apk",
   "changelog": "Security improvements\nHardware TEE attestation\nBug fixes and stability updates",
   "update_size": "8.3 MB",
   "force_update": true
