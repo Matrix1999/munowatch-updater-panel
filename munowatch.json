@@ -1,8 +1,8 @@
 {
-  "version_code": 12,
-  "version_name": "1.9",
-  "apk_url": "https://github.com/Matrix1999/munowatch-updater-panel/releases/download/v2.1/Munowatch.VIP.apk",
-  "changelog": "Security improvements\nBug fixes and stability updates",
-  "update_size": "8.3 MB",
+  "version_code": 13,
+  "version_name": "2.9",
+  "apk_url": "https://github.com/Matrix1999/munowatch-updater-panel/releases/download/v2.2/Munowatch_VIP_.apk",
+  "changelog": "🎞 Security improvements\n💡Bug fixes and stability updates",
+  "update_size": "13.9 MB",
   "force_update": true
 }
