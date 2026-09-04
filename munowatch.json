@@ -1,8 +1,8 @@
 {
-  "version_code": 18,
-  "version_name": "3.2",
-  "apk_url": "https://github.com/Matrix1999/munowatch-updater-panel/releases/download/V_3/Munowatch.vip.apk",
+  "version_code": 19,
+  "version_name": "3.3",
+  "apk_url": "https://github.com/Matrix1999/munowatch-updater-panel/releases/download/V_3/Munowatch.X.apk",
   "changelog": "💡Bug fixes and stability updates",
-  "update_size": "10.5 MB",
+  "update_size": "7.5 MB",
   "force_update": true
 }
